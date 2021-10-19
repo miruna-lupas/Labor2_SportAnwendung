@@ -16,7 +16,7 @@ public class Main {
 
         System.out.println("Benutzer 1: ");
         System.out.println("Totalzeit:" +b1.kalkuliereZeit());
-        System.out.println( "Sportarten: " + b1.kalkuliereZeit(fussball)+" "+ b1.kalkuliereZeit(basketball));
+        System.out.println("Sportarten: " + b1.kalkuliereZeit(fussball)+" "+ b1.kalkuliereZeit(basketball));
         System.out.println("Durchschnittzeit: "+ b1.DurschschnittZeit());
         System.out.println(" ");
         System.out.println("Benutzer 2: ");
